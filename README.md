@@ -1,0 +1,2 @@
+# AvSS_Entwurfsprinzipien_Beispiele
+AvSS_Entwurfsprinzipien_Beispiele in C#
